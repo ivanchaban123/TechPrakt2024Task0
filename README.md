@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Звіт з практичної роботи №1
 
 ![Контент](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
@@ -36,6 +35,4 @@
 - [ ] `git branch`
 
 Виконав : ***Чабан Іван***
-=======
-# TechPrakt2024Task0
->>>>>>> 1828b06c904d891dd776d4573c9d150f26dabf23
+
